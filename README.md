@@ -6,6 +6,6 @@
 - 📫 How to reach me: santiabo@gmail.com or https://www.linkedin.com/in/santiago--aguirre/.
 
 I'm currently uploading my lastest projects, but here is some little weather app I made. :)
-               >>>>> https://https://weather-app-rosy.vercel.app/ <<<<<
+               >>>>> https://weather-app-rosy.vercel.app/ <<<<<
 
 
