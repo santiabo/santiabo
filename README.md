@@ -1,7 +1,7 @@
 ### Hi there 👋
  My name is Santiago and I'm a newly software developer from Argentina. 
 
-- 🔭 I’m currently working on an e-bank App. Using Node.js, Reac-Native, Expo, mySQL and sequelize.
+- 🔭 I’m currently working on my resume. Using Node.js, React, Redux, StyledComponents, mySQL and sequelize.
 - 🌱 & learning a lot new skills. 
 
 Here is a little weather app I made using a free wheater API. :)              
