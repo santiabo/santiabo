@@ -1,7 +1,7 @@
 ### Hi there 👋
  My name is Santiago and I'm a passionate software developer from Argentina. 
 
-- 🔭 I’m currently working on my resume. Using Node.js, React, Redux, StyledComponents, mySQL and sequelize.
+- 🔭 Take a look at my first personal project [OUR-CV](https://github.com/santiabo/OUR-CV)
 - 🌱 & learning a lot new skills. 
 - Here is a little [Weather app](https://weather-app-rosy.vercel.app/) I made using a free wheater API.       
     
