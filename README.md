@@ -40,7 +40,7 @@
 </div>  
 <br></br>  
 
-## Languages and tools (weapons of choice):  
+## Languages and tools:  
    
 <p float="left">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Hz0FveyfweKelar02d9qnMb752giApH5P96uJ_hCGx7-LjhC3zhkiTyZTkRgL5Q-hnE&usqp=CAU" width="90px" height="90px">
