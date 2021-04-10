@@ -55,13 +55,12 @@
     <img src="https://scontent.faep9-2.fna.fbcdn.net/v/t1.6435-9/171564528_10224454762977907_7672539134904530261_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=x2NOl9hnBc4AX8jXpqt&_nc_ht=scontent.faep9-2.fna&oh=b45bdaa5c8ad84980799fc6fc8d6c90c&oe=6095129C" width="90px" height="90px">
       <img src="https://scontent.faep9-1.fna.fbcdn.net/v/t1.6435-9/170304573_10224454766417993_8106586500684371932_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=v0FsBB6vQosAX8ZrYsJ&_nc_ht=scontent.faep9-1.fna&oh=736b53728a797aca14df287a20f94841&oe=60963C01" width="90px" height="90px">
    <img src="https://scontent.faep9-1.fna.fbcdn.net/v/t1.6435-9/171389942_10224454764137936_6404967675861274017_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_ohc=mG-_B8JN7u8AX_olIiJ&_nc_ht=scontent.faep9-1.fna&oh=eb1770c0b53b1efe4405c97ad1f7b722&oe=6097B2FD" width="90px" height="90px">
-     <img src="https://scontent.faep9-1.fna.fbcdn.net/v/t1.6435-9/171655374_10224454764977957_644992959511029197_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_ohc=CJcR8QZl_aoAX9Mr3ZT&_nc_ht=scontent.faep9-1.fna&oh=9301fb861e35d1c902d12c9bc05d9af2&oe=6097F81E" width="90px" height="90px">
-       <img src="https://scontent.faep9-1.fna.fbcdn.net/v/t1.6435-9/170459621_10224454765057959_830832570315258897_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=m6HBWXGG0koAX8qDi2E&_nc_ht=scontent.faep9-1.fna&oh=7cd656469a31f6ac0de644eafdd93d9a&oe=6094E640" width="90px" height="90px">
-  <img src="https://downloadly.net/wp-content/uploads/2020/03/DBeaver.png" width="90px" height="90px">
-  <img src="https://appstore-data.csml.dev/images/airtable.png" width="90px" height="90px">
-  
+   <img src="https://es-wiki.ikoula.com/images/a/a3/Postgre.png" width="90px" height="90px">
+   <img src="https://ivan6801.github.io/Portafolio-Ivan/sintaxis-img/postman.png" width="90px" height="90px">
+   <img src="https://downloadly.net/wp-content/uploads/2020/03/DBeaver.png" width="90px" height="90px">
+   <img src="https://appstore-data.csml.dev/images/airtable.png" width="90px" height="90px">
    <img src="https://uve.edu.mx/wp-content/uploads/2016/09/trello.png" width="90px" height="90px">
-  <img src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png" width="90px" height="90px">
+   <img src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png" width="90px" height="90px">
 </p>
 
 <br></br>
