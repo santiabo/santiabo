@@ -2,7 +2,7 @@
 
 # Hi there 👋   
 
-## I'm Santiago a Web Developer from Argentina.  
+## I'm Santiago, a Web Developer from Argentina.  
 <br></br>
 
 ### <div align="center"> 🔭 Take a look at my first personal project [OUR-CV](https://github.com/santiabo/OUR-CV)  
