@@ -43,7 +43,7 @@
 ## Languages and tools:  
    
 <p float="left">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Hz0FveyfweKelar02d9qnMb752giApH5P96uJ_hCGx7-LjhC3zhkiTyZTkRgL5Q-hnE&usqp=CAU" width="90px" height="90px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdKQPqjeOA7doseebdiP5IDuwDjyKlbs3AnJ4HPgn2JEAAlUWm9VoYQIgCeKUNL-KML3Y&usqp=CAU" width="90px" height="90px">
 <img src="https://www.htmlcinco.com/wp-content/uploads/2011/01/HTML5_Logo_256.png" width="90px" height="90px">
 <img src="https://blastcoding.com/wp-content/uploads/2018/10/CSS3.png" width="90px" height="90px"> 
 <img src="https://scontent.faep9-2.fna.fbcdn.net/v/t1.6435-9/171059071_10224454762897905_1702438292755926406_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=730e14&_nc_ohc=XiZr6UfPZIwAX9DxpFu&_nc_ht=scontent.faep9-2.fna&oh=fdda0e8c874f2416ade39542c493f75e&oe=60951CBA" width="90px" height="90px"> 
