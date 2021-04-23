@@ -7,14 +7,14 @@
 
 ### <div align="center"> 🔭 Take a look at my first personal project [OUR-CV](https://github.com/santiabo/OUR-CV)  
   <p align="center">
-<img src="https://scontent.fcor10-3.fna.fbcdn.net/v/t1.0-9/161713005_10224294622694500_9124542996873606745_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHzt43c7jyHKtDKrk6lPfxQDAHflnKrDWAMAd-WcqsNYOVluGc4hZjTvnOgD1PtYLA&_nc_ohc=tvtMgAulDSUAX859IxO&_nc_ht=scontent.fcor10-3.fna&oh=ddd0ff3ede5960e5d13e84ce0e9e4e39&oe=607830F2" width="70%" height="70%" align="center">  
+<img src="https://scontent.faep9-1.fna.fbcdn.net/v/t1.6435-9/161713005_10224294622694500_9124542996873606745_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_ohc=fYkEfJuPI9gAX9lh5bA&_nc_ht=scontent.faep9-1.fna&oh=7767294416269bcd010ec1af83e56fd9&oe=60A7FDC7" width="70%" height="70%" align="center">  
   </p>
 </div>
 
 <br></br>
 ### <div align="center"> Here you can see an [e-bank mobile App](https://github.com/arielboyu/Henry-Bank-Front-G05) we developed as the final project in #SoyHenry Bootcamp.  
   <p align="center">
-<img src= 'https://scontent.fcor10-3.fna.fbcdn.net/v/t1.0-9/161731087_10224298031299713_8132435132563835142_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeFAWes7Z7xXFDfUZAx-0359s_K_e-37hJGz8r977fuEkWzC-1ZaBxoE7scMxP12l4E&_nc_ohc=hK-z1tjQlhUAX84UaFh&_nc_ht=scontent.fcor10-3.fna&oh=8ce7dc4b2bafbe56c0ec1d7bde6b97c5&oe=6078C78E' width="50%" height="50%" align="center">  
+<img src= 'https://scontent.faep9-1.fna.fbcdn.net/v/t1.6435-9/161731087_10224298031299713_8132435132563835142_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_ohc=YQrjPzvF0rgAX9LXgWj&_nc_ht=scontent.faep9-1.fna&oh=310d61ff5075fc9b29d3e5df52a969e2&oe=60A7B00B' width="50%" height="50%" align="center">  
   </p>
 </div>
 
@@ -61,6 +61,9 @@
    <img src="https://appstore-data.csml.dev/images/airtable.png" width="90px" height="90px">
    <img src="https://uve.edu.mx/wp-content/uploads/2016/09/trello.png" width="90px" height="90px">
    <img src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png" width="90px" height="90px">
+  <img src="https://k-miyake.github.io/blog/nuxt-vscode-appservice/nuxt.png" width="90px" height="90px">
+  <img src="https://xingyifei.top/images/vue.png" width="90px" height="90px">
+  <img src="https://avatars1.githubusercontent.com/u/22965283?s=200&v=4" width="90px" height="90px">
 </p>
 
 <br></br>
