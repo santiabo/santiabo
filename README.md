@@ -21,7 +21,7 @@
 <br></br>
 ### <div align="center"> Just a simple [coding challenge](https://github.com/santiabo/Aerolab-Challenge) I had a lot of fun in the making.  
    <p align="center">
-<img src='https://camo.githubusercontent.com/53a1467bd0779a513e9a21168324b99a3fe60c653a9b5fea286cf1eefa13dcd1/68747470733a2f2f73636f6e74656e742e66636f7231302d332e666e612e666263646e2e6e65742f762f74312e363433352d392f3136373136393838325f31303232343339313134393730373631355f333331333639363033333230313436343036385f6e2e6a70673f5f6e635f6361743d313031266363623d312d33265f6e635f7369643d373330653134265f6e635f6f68633d54464b4d326e6455337241415838675f4c4871265f6e635f68743d73636f6e74656e742e66636f7231302d332e666e61266f683d6235626538616534373638373765336634373830353737353265393664326665266f653d3630383837343544'  width="80%" height="80%" >  
+<img src='https://user-images.githubusercontent.com/67667762/119336421-0b768400-bc64-11eb-9f50-0210aeb7c9fa.png'  width="80%" height="80%" >  
    </p>
 </div>  
 
@@ -33,12 +33,7 @@
 </div>  
   
 <br></br>
-### <div align="center">Here is a little [Weather app](https://weather-app-rosy.vercel.app/) I made using a free wheater API.        
-   <p align="center">  
-<img src="https://scontent.faep9-1.fna.fbcdn.net/v/t1.6435-9/159736195_10224242906681632_8364600231038633927_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_ohc=QQvLo1-wP3MAX80ifQF&_nc_ht=scontent.faep9-1.fna&oh=403a2a93fff371811715ec0a5027544b&oe=60944CFB" width="50%" height="50%">  
-   </p>  
-</div>  
-<br></br>  
+
 
 ## Languages and tools:  
    
