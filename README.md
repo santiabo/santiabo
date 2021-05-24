@@ -44,12 +44,10 @@
 <img src="https://www.mathieufontaine.dev/img/logos/react-js.png" width="90px" height="90px"> 
 <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="90px" height="90px"> 
 <img src="https://blog.baehost.com/wp-content/uploads/2017/12/bootstrap.png" width="90px" height="90px">  
-<img src="https://scontent.faep9-1.fna.fbcdn.net/v/t1.6435-9/171770289_10224454765617973_2994370742489733144_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_ohc=aafJjH0gObkAX8lgtBJ&_nc_ht=scontent.faep9-1.fna&oh=9bd08400336d345e6e2b581eb1fe6943&oe=6095DEF7" width="90px" height="90px">  
 <img src="http://soyangelica.com/static/media/logo-redux.9ccce502.png" width="90px" height="90px">  
-  <img src="https://scontent.faep9-2.fna.fbcdn.net/v/t1.6435-9/170989086_10224454764897955_446205666216854361_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=VqT_uHq9pn0AX8FAi_v&_nc_ht=scontent.faep9-2.fna&oh=d19e89e36038bc5991f3dcac2f3c52b0&oe=60944929" width="90px" height="90px">
-    <img src="https://scontent.faep9-2.fna.fbcdn.net/v/t1.6435-9/171564528_10224454762977907_7672539134904530261_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=x2NOl9hnBc4AX8jXpqt&_nc_ht=scontent.faep9-2.fna&oh=b45bdaa5c8ad84980799fc6fc8d6c90c&oe=6095129C" width="90px" height="90px">
-      <img src="https://scontent.faep9-1.fna.fbcdn.net/v/t1.6435-9/170304573_10224454766417993_8106586500684371932_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=v0FsBB6vQosAX8ZrYsJ&_nc_ht=scontent.faep9-1.fna&oh=736b53728a797aca14df287a20f94841&oe=60963C01" width="90px" height="90px">
-   <img src="https://scontent.faep9-1.fna.fbcdn.net/v/t1.6435-9/171389942_10224454764137936_6404967675861274017_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_ohc=mG-_B8JN7u8AX_olIiJ&_nc_ht=scontent.faep9-1.fna&oh=eb1770c0b53b1efe4405c97ad1f7b722&oe=6097B2FD" width="90px" height="90px">
+<img src="https://victorroblesweb.es/wp-content/uploads/2018/01/nodejs-victorroblesweb.png" width="90px" height="90px">
+<img src="https://media.vlpt.us/images/potter/post/76303932-4916-4c24-9252-7e530a57bf0c/1_XP-mZOrIqX7OsFInN2ngRQ.png" width="90px" height="90px">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdmqNf59SYOamNX0yVK4ASouzwOCvtsk2hL-gxJF6T3CxApq0htG-Nebg_sf5wqUaa_c&usqp=CAU" width="90px" height="90px">
    <img src="https://es-wiki.ikoula.com/images/a/a3/Postgre.png" width="90px" height="90px">
    <img src="https://ivan6801.github.io/Portafolio-Ivan/sintaxis-img/postman.png" width="90px" height="90px">
    <img src="https://downloadly.net/wp-content/uploads/2020/03/DBeaver.png" width="90px" height="90px">
