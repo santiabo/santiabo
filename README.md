@@ -26,7 +26,7 @@
 </div>  
 
 <br></br>
-### <div align="center"> This is a [e-commerce App](https://github.com/santiabo/e-commerce-project) I worked on with the people of #SoyHenry.  
+### <div align="center"> This is an [e-commerce App](https://github.com/santiabo/e-commerce-project) I worked on with the people of #SoyHenry.  
    <p align="center">
 <img src='https://camo.githubusercontent.com/b1c841e3ad29f12b57b9a0c9db4b8a6eadc4df6bf9edcb66739363fa62b9a2d7/687474703a2f2f7265732e636c6f7564696e6172792e636f6d2f676f6e7a616c6f616775696c61726d2f696d6167652f75706c6f61642f76313631323139353736392f486f6d655f616c637268732e6a7067'  width="80%" height="80%" >  
    </p>
