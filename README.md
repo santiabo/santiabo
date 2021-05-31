@@ -14,7 +14,7 @@
 <br></br>
 ### <div align="center"> Here you can see an [e-bank mobile App](https://github.com/arielboyu/Henry-Bank-Front-G05) we developed as the final project in #SoyHenry Bootcamp.  
   <p align="center">
-<img src= 'https://raw.githubusercontent.com/santiabo/santiabo/main/TreeBank.png' width="35" height="35%" align="center">  
+<img src= 'https://raw.githubusercontent.com/santiabo/santiabo/main/TreeBank.png' width="35%" height="35%" align="center">  
   </p>
 </div>
 
