@@ -7,7 +7,7 @@
 
 ### <div align="center"> 🔭 Take a look at my first personal project [OUR-CV](https://github.com/santiabo/OUR-CV)  
   <p align="center">
-<img src="https://scontent.faep9-1.fna.fbcdn.net/v/t1.6435-9/161713005_10224294622694500_9124542996873606745_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_ohc=fYkEfJuPI9gAX9lh5bA&_nc_ht=scontent.faep9-1.fna&oh=7767294416269bcd010ec1af83e56fd9&oe=60A7FDC7" width="70%" height="70%" align="center">  
+<img src="https://raw.githubusercontent.com/santiabo/santiabo/main/ourcv-web.png" width="70%" height="70%" align="center">  
   </p>
 </div>
 
